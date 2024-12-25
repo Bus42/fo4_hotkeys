@@ -1,0 +1,5 @@
+tfc 1;
+sucsm 2;
+set gamehour to 1200;
+fw 0002b52a;
+tm;
